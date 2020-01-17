@@ -1,0 +1,6 @@
+{
+    "project_id_var": "<templ-xxxxxx>",
+    "source_image_family_var": "<source-image>",
+    "machine_type_var": "<machine-type>"
+
+}
